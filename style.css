@@ -1,0 +1,25 @@
+.main{
+    background-color: rgb(25, 25, 25);
+    border-radius: 1rem;
+    padding: 1rem;
+    color: white;
+}
+
+.submain{
+    background-color: rgb(66, 62, 62);
+    border-radius: 1rem;
+}
+
+.profile{
+    display: flex;
+}
+
+.profile img{
+    padding: 1rem;
+    border-radius: 50%;
+    padding: 1.6rem 1rem ;
+}
+
+.name h4,p{
+    
+}
